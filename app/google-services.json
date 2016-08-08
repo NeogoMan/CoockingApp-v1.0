@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "647182507459",
+    "firebase_url": "https://testingmyap.firebaseio.com",
+    "project_id": "firebase-testingmyap",
+    "storage_bucket": "firebase-testingmyap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647182507459:android:e1e437c8dae390ed",
+        "android_client_info": {
+          "package_name": "recipe.coking.kitchen.myrecipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647182507459-2qgtpgfvm4pho1uggk4dmk39uh5job4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy7v6JwF3IwBvDkK2xMXEia0ho87UE6HM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

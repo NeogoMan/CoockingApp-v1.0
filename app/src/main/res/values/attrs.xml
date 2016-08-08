@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="data" format="reference" />
+
+    <declare-styleable name="CustomTextView">
+        <attr name="typeface" format="string"/>
+    </declare-styleable>
+
+    <declare-styleable name="TabViewAttrs">
+        <attr name="tabIcon"     format="reference" />
+        <attr name="indicatorBg" format="reference" />
+        <attr name="tabtitle" format="string"/>
+    </declare-styleable>
+
+    <declare-styleable name="ReloadViewAttrs">
+        <attr name="textbutton" format="string"/>
+        <attr name="textmessage" format="string"/>
+    </declare-styleable>
+
+    <declare-styleable name="ColorViewAttrs">
+        <attr name="clr" format="reference" />
+        <attr name="txt" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="FilterGroupAttrs">
+        <attr name="data"/>
+    </declare-styleable>
+
+    <declare-styleable name="FilterViewAttrs">
+        <attr name="data" />
+    </declare-styleable>
+
+</resources>

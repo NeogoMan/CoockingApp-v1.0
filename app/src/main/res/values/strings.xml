@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CookingApp</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6842456340557556/3345093825</string>
+
+    <string name="check_connection">Please check your connection</string>
+    <string name="try_again">Try Again</string>
+    <string name="no_data_found">No data Found</string>
+    <string name="powered_by">Powered By :</string>
+    <string name="developer_name">Mehdi</string>
+</resources>
+
